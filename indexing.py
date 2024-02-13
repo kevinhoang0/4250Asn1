@@ -3,7 +3,7 @@
 # FILENAME: indexing.py
 # SPECIFICATION: Reading a file and returning a document-term matrix
 # FOR: CS 4250- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: Around 3-4 hrs, 2/3 on assignment and 1 on code
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard arrays
